@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9eefb06-d568-49fd-a47d-73fa8939aafc" name="Changes" comment="SEMANA 2">
-      <change afterPath="$PROJECT_DIR$/SEMANA 3/Programación Orientada a Objetos (POO).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEMANA 3/Solución en Programación Tradicional (Funciones).py" afterDir="false" />
+    <list default="true" id="b9eefb06-d568-49fd-a47d-73fa8939aafc" name="Changes" comment="SEMANA 3">
+      <change afterPath="$PROJECT_DIR$/SEMANA 4/Ejemplos del Mundo Real y Características de la Programación Orientada a Objetos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -52,6 +52,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.ABSTRACCIÓN.executor": "Run",
     "Python.ENCAPSULACIÓN.executor": "Run",
+    "Python.Ejemplos del Mundo Real y Características de la Programación Orientada a Objetos.executor": "Run",
     "Python.HERENCIA.executor": "Run",
     "Python.POLIMORFISMO.executor": "Run",
     "Python.Programación Orientada a Objetos (POO).executor": "Run",
@@ -114,7 +115,9 @@
       <updated>1764970988559</updated>
       <workItem from="1764970989959" duration="581000" />
       <workItem from="1764971596824" duration="952000" />
-      <workItem from="1765324789322" duration="2105000" />
+      <workItem from="1765324789322" duration="2798000" />
+      <workItem from="1765839639390" duration="762000" />
+      <workItem from="1766095196010" duration="358000" />
     </task>
     <task id="LOCAL-00001" summary="SEMANA 2">
       <option name="closed" value="true" />
@@ -124,7 +127,31 @@
       <option name="project" value="LOCAL" />
       <updated>1764971947041</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="SEMANA 2">
+      <option name="closed" value="true" />
+      <created>1765327047789</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1765327047789</updated>
+    </task>
+    <task id="LOCAL-00003" summary="SEMANA 3">
+      <option name="closed" value="true" />
+      <created>1765327069379</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1765327069379</updated>
+    </task>
+    <task id="LOCAL-00004" summary="SEMANA 3">
+      <option name="closed" value="true" />
+      <created>1765327079730</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1765327079730</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,7 +159,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="SEMANA 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="SEMANA 2" />
+    <MESSAGE value="SEMANA 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="SEMANA 3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject1$POLIMORFISMO.coverage" NAME="POLIMORFISMO Coverage Results" MODIFIED="1764971435067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 2" />
