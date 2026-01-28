@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9eefb06-d568-49fd-a47d-73fa8939aafc" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+    <list default="true" id="b9eefb06-d568-49fd-a47d-73fa8939aafc" name="Changes" comment="SEMANA 7">
+      <change afterPath="$PROJECT_DIR$/SEMANA 8/“Dashboard Personalizado para la Gestión de Proyectos de Programación Orientada a Objetos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEMANA 8/DASHBOARD PERSONALIZADO – ESTEFANÍA NARVÁEZ.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,40 +51,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python tests.Python tests in Clase derivada + herencia + polimorfismo.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ABSTRACCIÓN.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Calculadora de Área de Figuras.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Clase base + encapsulación.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Clase derivada + herencia + polimorfismo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ENCAPSULACIÓN.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ejemplos del Mundo Real y Características de la Programación Orientada a Objetos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HERENCIA.executor&quot;: &quot;Run&quot;,
-    &quot;Python.POLIMORFISMO.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Programación Orientada a Objetos (POO).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Solución en Programación Tradicional (Funciones).executor&quot;: &quot;Run&quot;,
-    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
-    &quot;Python.animal.executor&quot;: &quot;Run&quot;,
-    &quot;Python.biblioteca_service.executor&quot;: &quot;Run&quot;,
-    &quot;Python.impresora_tickets.executor&quot;: &quot;Run&quot;,
-    &quot;Python.logger_service.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ticket.executor&quot;: &quot;Run&quot;,
-    &quot;Python.usuario.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zoologico_service.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests in Clase derivada + herencia + polimorfismo.py.executor": "Run",
+    "Python.ABSTRACCIÓN.executor": "Run",
+    "Python.Calculadora de Área de Figuras.executor": "Run",
+    "Python.Clase base + encapsulación.executor": "Run",
+    "Python.Clase derivada + herencia + polimorfismo.executor": "Run",
+    "Python.ENCAPSULACIÓN.executor": "Run",
+    "Python.Ejemplos del Mundo Real y Características de la Programación Orientada a Objetos.executor": "Run",
+    "Python.HERENCIA.executor": "Run",
+    "Python.POLIMORFISMO.executor": "Run",
+    "Python.Programación Orientada a Objetos (POO).executor": "Run",
+    "Python.Solución en Programación Tradicional (Funciones).executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.animal.executor": "Run",
+    "Python.biblioteca_service.executor": "Run",
+    "Python.impresora_tickets.executor": "Run",
+    "Python.logger_service.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.ticket.executor": "Run",
+    "Python.usuario.executor": "Run",
+    "Python.zoologico_service.executor": "Run",
+    "Python.“Dashboard Personalizado para la Gestión de Proyectos de Programación Orientada a Objetos.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="ABSTRACCIÓN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2526-POO-NARVAEZ ESTEFANIA" />
@@ -139,6 +142,7 @@
       <workItem from="1768664325564" duration="3273000" />
       <workItem from="1768700497521" duration="873000" />
       <workItem from="1769261789872" duration="9477000" />
+      <workItem from="1769979110480" duration="431000" />
     </task>
     <task id="LOCAL-00001" summary="SEMANA 2">
       <option name="closed" value="true" />
@@ -212,31 +216,7 @@
       <option name="project" value="LOCAL" />
       <updated>1769290016298</updated>
     </task>
-    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <option name="closed" value="true" />
-      <created>1769290582655</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1769290582655</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <option name="closed" value="true" />
-      <created>1769290641344</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1769290641344</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <option name="closed" value="true" />
-      <created>1769290684809</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1769290684809</updated>
-    </task>
-    <option name="localTasksCounter" value="13" />
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,16 +227,15 @@
     <MESSAGE value="SEMANA 3" />
     <MESSAGE value="SEMANA 4" />
     <MESSAGE value="SEMANA 5" />
-    <MESSAGE value="SEMANA 6" />
     <MESSAGE value="SEMANA 7" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
+    <MESSAGE value="SEMANA 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="SEMANA 6" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$zoologico_service.coverage" NAME="zoologico_service Coverage Results" MODIFIED="1768700935150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 6/services" />
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$usuario.coverage" NAME="usuario Coverage Results" MODIFIED="1769276530578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 7/modelos" />
     <SUITE FILE_PATH="coverage/PythonProject1$ENCAPSULACIÓN.coverage" NAME="ENCAPSULACIÓN Coverage Results" MODIFIED="1764971322754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 2" />
+    <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$DASHBOARD_PERSONALIZADO__ESTEFANÍA_NARVÁEZ.coverage" NAME="DASHBOARD PERSONALIZADO – ESTEFANÍA NARVÁEZ Coverage Results" MODIFIED="1769639037610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 8" />
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$Clase_base___encapsulación.coverage" NAME="Clase base + encapsulación Coverage Results" MODIFIED="1768606384494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 6/modelos" />
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$Programación_Orientada_a_Objetos__POO_.coverage" NAME="Programación Orientada a Objetos (POO) Coverage Results" MODIFIED="1765326975976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 3" />
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$.coverage" NAME=" Coverage Results" MODIFIED="1768665531516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
