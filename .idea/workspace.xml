@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9eefb06-d568-49fd-a47d-73fa8939aafc" name="Changes" comment="SEMANA 8">
-      <change afterPath="$PROJECT_DIR$/SEMANA 10/Sistema de Inventario con Persistencia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEMANA 9/main/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEMANA 9/modelos/producto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEMANA 9/servicios/inventario.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b9eefb06-d568-49fd-a47d-73fa8939aafc" name="Changes" comment="Merge remote-tracking branch 'origin/master'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +60,7 @@
     &quot;Python.HERENCIA.executor&quot;: &quot;Run&quot;,
     &quot;Python.POLIMORFISMO.executor&quot;: &quot;Run&quot;,
     &quot;Python.Programación Orientada a Objetos (POO).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sistema de Inventario con Persistencia.executor&quot;: &quot;Run&quot;,
     &quot;Python.Solución en Programación Tradicional (Funciones).executor&quot;: &quot;Run&quot;,
     &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
     &quot;Python.animal.executor&quot;: &quot;Run&quot;,
@@ -148,7 +143,7 @@
       <workItem from="1770854049095" duration="4168000" />
       <workItem from="1770919947926" duration="33000" />
       <workItem from="1770920123122" duration="2219000" />
-      <workItem from="1771725859114" duration="319000" />
+      <workItem from="1771725859114" duration="1436000" />
     </task>
     <task id="LOCAL-00001" summary="SEMANA 2">
       <option name="closed" value="true" />
@@ -246,7 +241,55 @@
       <option name="project" value="LOCAL" />
       <updated>1769290684809</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="SEMANA 10">
+      <option name="closed" value="true" />
+      <created>1771726228929</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1771726228929</updated>
+    </task>
+    <task id="LOCAL-00014" summary="SEMANA 10">
+      <option name="closed" value="true" />
+      <created>1771726280518</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1771726280518</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;SEMANA 8/DASHBOARD PERSONALIZADO – ESTEFANÍA NARVÁEZ.py&#10;#&#9;SEMANA 9/modelos/producto.py">
+      <option name="closed" value="true" />
+      <created>1771726325736</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1771726325736</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;SEMANA 8/DASHBOARD PERSONALIZADO – ESTEFANÍA NARVÁEZ.py&#10;#&#9;SEMANA 9/modelos/producto.py">
+      <option name="closed" value="true" />
+      <created>1771726333453</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1771726333453</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;SEMANA 8/DASHBOARD PERSONALIZADO – ESTEFANÍA NARVÁEZ.py&#10;#&#9;SEMANA 9/modelos/producto.py">
+      <option name="closed" value="true" />
+      <created>1771726340807</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1771726340807</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1771726354173</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1771726354173</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,12 +303,16 @@
     <MESSAGE value="SEMANA 6" />
     <MESSAGE value="SEMANA 7" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="SEMANA 10" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;SEMANA 8/DASHBOARD PERSONALIZADO – ESTEFANÍA NARVÁEZ.py&#10;#&#9;SEMANA 9/modelos/producto.py" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$DASHBOARD_PERSONALIZADO__ESTEFANÍA_NARVÁEZ.coverage" NAME="DASHBOARD PERSONALIZADO – ESTEFANÍA NARVÁEZ Coverage Results" MODIFIED="1769639037610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 8" />
+    <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$Sistema_de_Inventario_con_Persistencia.coverage" NAME="Sistema de Inventario con Persistencia Coverage Results" MODIFIED="1771726199044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 10" />
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$producto.coverage" NAME="producto Coverage Results" MODIFIED="1770857414972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 9/modelos" />
+    <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$DASHBOARD_PERSONALIZADO__ESTEFANÍA_NARVÁEZ.coverage" NAME="DASHBOARD PERSONALIZADO – ESTEFANÍA NARVÁEZ Coverage Results" MODIFIED="1769639037610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 8" />
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$inventario.coverage" NAME="inventario Coverage Results" MODIFIED="1770854994525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 9/servicios" />
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$impresora_tickets.coverage" NAME="impresora_tickets Coverage Results" MODIFIED="1769289769806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 7/tickets_app/servicios" />
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$Programación_Orientada_a_Objetos__POO_.coverage" NAME="Programación Orientada a Objetos (POO) Coverage Results" MODIFIED="1765326975976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 3" />
