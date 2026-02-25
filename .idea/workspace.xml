@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9eefb06-d568-49fd-a47d-73fa8939aafc" name="Changes" comment="Merge remote-tracking branch 'origin/master'" />
+    <list default="true" id="b9eefb06-d568-49fd-a47d-73fa8939aafc" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
+      <change afterPath="$PROJECT_DIR$/SEMANA 10/Clase Producto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +63,7 @@
     &quot;Python.HERENCIA.executor&quot;: &quot;Run&quot;,
     &quot;Python.POLIMORFISMO.executor&quot;: &quot;Run&quot;,
     &quot;Python.Programación Orientada a Objetos (POO).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sistema Avanzado de Gestión de Inventario.executor&quot;: &quot;Run&quot;,
     &quot;Python.Sistema de Inventario con Persistencia.executor&quot;: &quot;Run&quot;,
     &quot;Python.Solución en Programación Tradicional (Funciones).executor&quot;: &quot;Run&quot;,
     &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
@@ -144,6 +148,8 @@
       <workItem from="1770919947926" duration="33000" />
       <workItem from="1770920123122" duration="2219000" />
       <workItem from="1771725859114" duration="1436000" />
+      <workItem from="1771982510959" duration="1359000" />
+      <workItem from="1772572374272" duration="1032000" />
     </task>
     <task id="LOCAL-00001" summary="SEMANA 2">
       <option name="closed" value="true" />
@@ -289,11 +295,30 @@
       <option name="project" value="LOCAL" />
       <updated>1771726354173</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1771982648345</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1771982648345</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="SEMANA 2" />
@@ -311,8 +336,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$Sistema_de_Inventario_con_Persistencia.coverage" NAME="Sistema de Inventario con Persistencia Coverage Results" MODIFIED="1771726199044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 10" />
-    <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$producto.coverage" NAME="producto Coverage Results" MODIFIED="1770857414972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 9/modelos" />
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$DASHBOARD_PERSONALIZADO__ESTEFANÍA_NARVÁEZ.coverage" NAME="DASHBOARD PERSONALIZADO – ESTEFANÍA NARVÁEZ Coverage Results" MODIFIED="1769639037610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 8" />
+    <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$producto.coverage" NAME="producto Coverage Results" MODIFIED="1770857414972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 9/modelos" />
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$inventario.coverage" NAME="inventario Coverage Results" MODIFIED="1770854994525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 9/servicios" />
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$impresora_tickets.coverage" NAME="impresora_tickets Coverage Results" MODIFIED="1769289769806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 7/tickets_app/servicios" />
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$Programación_Orientada_a_Objetos__POO_.coverage" NAME="Programación Orientada a Objetos (POO) Coverage Results" MODIFIED="1765326975976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 3" />
@@ -321,6 +346,7 @@
     <SUITE FILE_PATH="coverage/PythonProject1$HERENCIA.coverage" NAME="HERENCIA Coverage Results" MODIFIED="1764971362613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 2" />
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$ticket.coverage" NAME="ticket Coverage Results" MODIFIED="1769289715980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 7/tickets_app/modelos" />
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$main.coverage" NAME="main Coverage Results" MODIFIED="1769289881129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 7/tickets_app" />
+    <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$Sistema_Avanzado_de_Gestión_de_Inventario.coverage" NAME="Sistema Avanzado de Gestión de Inventario Coverage Results" MODIFIED="1771982613650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 11" />
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$zoologico_service.coverage" NAME="zoologico_service Coverage Results" MODIFIED="1768700935150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 6/services" />
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$usuario.coverage" NAME="usuario Coverage Results" MODIFIED="1769276530578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 7/modelos" />
     <SUITE FILE_PATH="coverage/PythonProject1$ENCAPSULACIÓN.coverage" NAME="ENCAPSULACIÓN Coverage Results" MODIFIED="1764971322754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 2" />
@@ -332,7 +358,7 @@
     <SUITE FILE_PATH="coverage/PythonProject1$ABSTRACCIÓN.coverage" NAME="ABSTRACCIÓN Coverage Results" MODIFIED="1764971620695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 2" />
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1769289813686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 7/tickets_app" />
     <SUITE FILE_PATH="coverage/PythonProject1$POLIMORFISMO.coverage" NAME="POLIMORFISMO Coverage Results" MODIFIED="1764971435067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 2" />
-    <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$ABSTRACCIÓN.coverage" NAME="ABSTRACCIÓN Coverage Results" MODIFIED="1768664370390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 2" />
+    <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$ABSTRACCIÓN.coverage" NAME="ABSTRACCIÓN Coverage Results" MODIFIED="1771982610546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 2" />
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$Solución_en_Programación_Tradicional__Funciones_.coverage" NAME="Solución en Programación Tradicional (Funciones) Coverage Results" MODIFIED="1765325440393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 3" />
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$Clase_derivada___herencia___polimorfismo.coverage" NAME="Clase derivada + herencia + polimorfismo Coverage Results" MODIFIED="1768673040893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 6/modelos" />
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$Ejemplos_del_Mundo_Real_y_Características_de_la_Programación_Orientada_a_Objetos.coverage" NAME="Ejemplos del Mundo Real y Características de la Programación Orientada a Objetos Coverage Results" MODIFIED="1766098552201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 4" />
