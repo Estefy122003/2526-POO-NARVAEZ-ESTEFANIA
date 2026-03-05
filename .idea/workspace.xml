@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9eefb06-d568-49fd-a47d-73fa8939aafc" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
-      <change afterPath="$PROJECT_DIR$/SEMANA 12/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEMANA 12/modelos/libro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEMANA 12/biblioteca_servicio.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEMANA 12/modelos/usuario.py" beforeDir="false" afterPath="$PROJECT_DIR$/SEMANA 12/modelos/usuario.py" afterDir="false" />
-    </list>
+    <list default="true" id="b9eefb06-d568-49fd-a47d-73fa8939aafc" name="Changes" comment="SEMANA 12" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,46 +51,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python tests.Python tests in Clase derivada + herencia + polimorfismo.py.executor": "Run",
-    "Python.ABSTRACCIÓN.executor": "Run",
-    "Python.Calculadora de Área de Figuras.executor": "Run",
-    "Python.Clase Producto.executor": "Run",
-    "Python.Clase base + encapsulación.executor": "Run",
-    "Python.Clase derivada + herencia + polimorfismo.executor": "Run",
-    "Python.ENCAPSULACIÓN.executor": "Run",
-    "Python.Ejemplos del Mundo Real y Características de la Programación Orientada a Objetos.executor": "Run",
-    "Python.HERENCIA.executor": "Run",
-    "Python.POLIMORFISMO.executor": "Run",
-    "Python.Programación Orientada a Objetos (POO).executor": "Run",
-    "Python.Sistema Avanzado de Gestión de Inventario.executor": "Run",
-    "Python.Sistema de Inventario con Persistencia.executor": "Run",
-    "Python.Solución en Programación Tradicional (Funciones).executor": "Run",
-    "Python.__init__.executor": "Run",
-    "Python.animal.executor": "Run",
-    "Python.biblioteca_service.executor": "Run",
-    "Python.biblioteca_servicio.executor": "Run",
-    "Python.impresora_tickets.executor": "Run",
-    "Python.inventario.executor": "Run",
-    "Python.logger_service.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.producto.executor": "Run",
-    "Python.ticket.executor": "Run",
-    "Python.usuario.executor": "Run",
-    "Python.zoologico_service.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests in Clase derivada + herencia + polimorfismo.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ABSTRACCIÓN.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Calculadora de Área de Figuras.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Clase Producto.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Clase base + encapsulación.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Clase derivada + herencia + polimorfismo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ENCAPSULACIÓN.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejemplos del Mundo Real y Características de la Programación Orientada a Objetos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HERENCIA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.POLIMORFISMO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Programación Orientada a Objetos (POO).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sistema Avanzado de Gestión de Inventario.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sistema de Inventario con Persistencia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Solución en Programación Tradicional (Funciones).executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.animal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.biblioteca_service.executor&quot;: &quot;Run&quot;,
+    &quot;Python.biblioteca_servicio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.impresora_tickets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inventario.executor&quot;: &quot;Run&quot;,
+    &quot;Python.logger_service.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.producto.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ticket.executor&quot;: &quot;Run&quot;,
+    &quot;Python.usuario.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zoologico_service.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ABSTRACCIÓN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2526-POO-NARVAEZ ESTEFANIA" />
@@ -159,7 +153,7 @@
       <workItem from="1771725859114" duration="1436000" />
       <workItem from="1771982510959" duration="1359000" />
       <workItem from="1772572374272" duration="3211000" />
-      <workItem from="1772739298023" duration="3093000" />
+      <workItem from="1772739298023" duration="3350000" />
     </task>
     <task id="LOCAL-00001" summary="SEMANA 2">
       <option name="closed" value="true" />
@@ -329,7 +323,31 @@
       <option name="project" value="LOCAL" />
       <updated>1772740869075</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1772742426398</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1772742426398</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;SEMANA 12/modelos/usuario.py">
+      <option name="closed" value="true" />
+      <created>1772742523692</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1772742523692</updated>
+    </task>
+    <task id="LOCAL-00024" summary="SEMANA 12">
+      <option name="closed" value="true" />
+      <created>1772742619979</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1772742619979</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -357,7 +375,9 @@
     <MESSAGE value="SEMANA 10" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;SEMANA 8/DASHBOARD PERSONALIZADO – ESTEFANÍA NARVÁEZ.py&#10;#&#9;SEMANA 9/modelos/producto.py" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;SEMANA 12/modelos/usuario.py" />
+    <MESSAGE value="SEMANA 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="SEMANA 12" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
