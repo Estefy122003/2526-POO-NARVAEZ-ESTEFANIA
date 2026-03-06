@@ -20,7 +20,7 @@ def main():
     # Lista de animales (polimorfismo)
     animales = [perro, gato]
 
-    # Usar el servicio
+    # Usar el servicios
     zoo = ZoologicoService()
     zoo.mostrar_sonidos(animales)
 

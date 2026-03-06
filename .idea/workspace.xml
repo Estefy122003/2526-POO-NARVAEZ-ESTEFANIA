@@ -4,14 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9eefb06-d568-49fd-a47d-73fa8939aafc" name="Changes" comment="SEMANA 12">
-      <change afterPath="$PROJECT_DIR$/Sistema de Gestión de Biblioteca Digital con Arquitectura por Capas/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sistema de Gestión de Biblioteca Digital con Arquitectura por Capas/modelos/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sistema de Gestión de Biblioteca Digital con Arquitectura por Capas/modelos/libro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sistema de Gestión de Biblioteca Digital con Arquitectura por Capas/modelos/usuario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sistema de Gestión de Biblioteca Digital con Arquitectura por Capas/servicios/biblioteca_servicio.py" afterDir="false" />
+    <list default="true" id="b9eefb06-d568-49fd-a47d-73fa8939aafc" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;SEMANA 12/modelos/usuario.py">
+      <change afterPath="$PROJECT_DIR$/SEMANA12/modelos/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEMANA12/modelos/libro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEMANA12/modelos/usuario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEMANA12/servicio/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEMANA12/servicio/biblioteca_servicio.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEMANA 12/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEMANA 12/modelos/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/SEMANA12/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEMANA 12/modelos/libro.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/SEMANA 12/modelos/usuario.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEMANA 12/servicios/biblioteca_servicio.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,36 +109,6 @@
       <recent name="C:\Users\PC-PR\PycharmProjects\PythonProject1\SEMANA 12\modelos\modelos" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="usuario" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="2526-POO-NARVAEZ ESTEFANIA" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SEMANA 12/modelos" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SEMANA 12/modelos/usuario.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.usuario" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -176,6 +150,9 @@
       <workItem from="1772757563122" duration="14000" />
       <workItem from="1772757630843" duration="32000" />
       <workItem from="1772757704235" duration="8000" />
+      <workItem from="1772760141718" duration="485000" />
+      <workItem from="1772810473313" duration="612000" />
+      <workItem from="1772897247332" duration="1534000" />
     </task>
     <task id="LOCAL-00001" summary="SEMANA 2">
       <option name="closed" value="true" />
@@ -393,7 +370,47 @@
       <option name="project" value="LOCAL" />
       <updated>1772742786814</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1772760186584</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1772760186584</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1772760213128</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1772760213128</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1772760408820</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1772760408820</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1772760426553</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1772760426553</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;SEMANA 12/modelos/usuario.py">
+      <option name="closed" value="true" />
+      <created>1772760586896</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1772760586896</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -420,16 +437,16 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="SEMANA 10" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;SEMANA 8/DASHBOARD PERSONALIZADO – ESTEFANÍA NARVÁEZ.py&#10;#&#9;SEMANA 9/modelos/producto.py" />
+    <MESSAGE value="SEMANA 12" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;SEMANA 12/modelos/usuario.py" />
-    <MESSAGE value="SEMANA 12" />
-    <option name="LAST_COMMIT_MESSAGE" value="SEMANA 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;SEMANA 12/modelos/usuario.py" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$Sistema_de_Inventario_con_Persistencia.coverage" NAME="Sistema de Inventario con Persistencia Coverage Results" MODIFIED="1771726199044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 10" />
-    <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$producto.coverage" NAME="producto Coverage Results" MODIFIED="1770857414972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 9/modelos" />
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$DASHBOARD_PERSONALIZADO__ESTEFANÍA_NARVÁEZ.coverage" NAME="DASHBOARD PERSONALIZADO – ESTEFANÍA NARVÁEZ Coverage Results" MODIFIED="1769639037610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 8" />
+    <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$producto.coverage" NAME="producto Coverage Results" MODIFIED="1770857414972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 9/modelos" />
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$inventario.coverage" NAME="inventario Coverage Results" MODIFIED="1770854994525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 9/servicios" />
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$impresora_tickets.coverage" NAME="impresora_tickets Coverage Results" MODIFIED="1769289769806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 7/tickets_app/servicios" />
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$Programación_Orientada_a_Objetos__POO_.coverage" NAME="Programación Orientada a Objetos (POO) Coverage Results" MODIFIED="1765326975976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 3" />
@@ -440,7 +457,7 @@
     <SUITE FILE_PATH="coverage/PythonProject1$HERENCIA.coverage" NAME="HERENCIA Coverage Results" MODIFIED="1764971362613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 2" />
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$ticket.coverage" NAME="ticket Coverage Results" MODIFIED="1769289715980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 7/tickets_app/modelos" />
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$Sistema_Avanzado_de_Gestión_de_Inventario.coverage" NAME="Sistema Avanzado de Gestión de Inventario Coverage Results" MODIFIED="1771982613650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 11" />
-    <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$main.coverage" NAME="main Coverage Results" MODIFIED="1772753558083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sistema de Gestión de Biblioteca Digital con Arquitectura por Capas" />
+    <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$main.coverage" NAME="main Coverage Results" MODIFIED="1772898571813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA12" />
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$zoologico_service.coverage" NAME="zoologico_service Coverage Results" MODIFIED="1768700935150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 6/services" />
     <SUITE FILE_PATH="coverage/2526_POO_NARVAEZ_ESTEFANIA$usuario.coverage" NAME="usuario Coverage Results" MODIFIED="1772751778360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 12/modelos" />
     <SUITE FILE_PATH="coverage/PythonProject1$ENCAPSULACIÓN.coverage" NAME="ENCAPSULACIÓN Coverage Results" MODIFIED="1764971322754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 2" />
